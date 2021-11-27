@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-int power(int base, int exponential);
+int calcPower(int base, int exponential);
 int main()
 {
     int base, power;
