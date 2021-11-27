@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637986434 source:d:\mansoura\c\repository\lab5\drawmagicbox\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
