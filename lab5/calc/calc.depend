@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637975994 source:d:\mansoura\c\repository\lab5\calc\main.c
+	<stdio.h>
+	<stdlib.h>
+
